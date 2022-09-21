@@ -1,0 +1,47 @@
+nav{
+    background-color: blue;
+}
+#first{
+    display: flex;
+    justify-content: flex-end;
+}
+#img-1{
+    height: 40px;
+}
+#img-2{
+    height: 30px;
+    padding: 3.7px;
+}
+#inner{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+} 
+#inner2{
+    display: flex;
+    justify-content: center;
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+#img-3{
+    height: 20px;
+    width: 20px;
+}
+.card{
+    width: 30%;
+    margin: 10px;
+}
+#h4{
+    color: white;
+}
+img{
+    height: 150px;
+}
+form{
+    border-width: thin; 
+    border-style: solid; 
+    padding: 10px 30px 10px 30px;
+}
